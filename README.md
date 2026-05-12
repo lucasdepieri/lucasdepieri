@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on casa
+- 🔭 I’m currently working em casa
 - 🌱 I’m currently learning programação para Web
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with o curso de programação
-- 💬 Ask me about ...
+- 💬 Ask me about o brasil
 - 📫 How to reach me: por aqui
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
